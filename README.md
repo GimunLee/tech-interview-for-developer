@@ -1,4 +1,16 @@
 # tech-interview-for-developer
+/github/last-commit/:user/:repo
+
+/bitbucket/issues-raw/:user/:repo
+
+/bitbucket/pr-raw/:user/:repo
+
+/apm/l/:packageName
+
+/github/stars/:user/:repo?style=social
+
+/github/forks/:user/:repo?label=Fork
+
 #### 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
 <br/>
