@@ -1,16 +1,4 @@
 # tech-interview-for-developer
-/github/last-commit/:user/:repo
-
-/bitbucket/issues-raw/:user/:repo
-
-/bitbucket/pr-raw/:user/:repo
-
-/apm/l/:packageName
-
-/github/stars/:user/:repo?style=social
-
-/github/forks/:user/:repo?label=Fork
-
 #### 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
 <br/>
@@ -261,4 +249,4 @@
 - [GitHub Fork로 협업하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/ETC/GitHub%20Fork%EB%A1%9C%20%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0.md#github-fork%EB%A1%9C-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0)
 - [GitHub 저장소(repository) 미러링](https://github.com/gyoogle/tech-interview-for-developer/blob/master/ETC/GitHub%20%EC%A0%80%EC%9E%A5%EC%86%8C(repository)%20%EB%AF%B8%EB%9F%AC%EB%A7%81.md#github-%EC%A0%80%EC%9E%A5%EC%86%8Crepository-%EB%AF%B8%EB%9F%AC%EB%A7%81)
 
-<br/>
+  <br/>
